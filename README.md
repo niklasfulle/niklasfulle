@@ -1,12 +1,12 @@
 <a href="https://github-readme-stats.vercel.app/api?username=niklasfulle&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=niklasfulle&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=niklasfulle&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20" />
 </a>
-<h2>I'm Niklas, computer science student at the University of Applied Sciences Ostfalia in Wolfenbüttel, Germany.<br> I'm currently working on my bachelor degree.</h2>
+<h3>I'm Niklas, computer science student at the University of Applied Sciences Ostfalia in Wolfenbüttel, Germany.<br> I'm currently working on my bachelor degree.</h2>
 
-<h3>Things I code with</h3>
+<h4>Things I code with</h4>
 <p>
     <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -36,8 +36,8 @@
     <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=green" />
     <br>
 </p>
-<h3>My Hardeware</h3>
-<h4 style="margin-bottom: 1em">PC</h4>
+<h4>My Hardeware</h4>
+<h5 style="margin-bottom: 1em">PC</h5>
 <div style="margin-left: 1em">
     <img alt="AMD Ryzen 7 5800X" src="https://img.shields.io/badge/-AMD%20Ryzen%207%205800X-ED1C24?style=flat-square&logo=amd&logoColor=white" /><br>
     <img alt="GiGABYTE B550 AORUS PRO V2" src="https://img.shields.io/badge/-GiGABYTE%20B550%20AORUS%20PRO%20V2-00AEEF?style=flat-square&logo=gigabyte&logoColor=white" /><br>
@@ -48,7 +48,7 @@
     <img alt="Seagate Barracuda 4TB" src="https://img.shields.io/badge/-Seagate%20Barracuda%204TB-00AEEF?style=flat-square&logo=seagate&logoColor=white" /><br>
     <img alt="Corsair iCue 4000X RGB schwarz" src="https://img.shields.io/badge/-Corsair%20iCue%204000X%20RGB%20schwarz-00AEEF?style=flat-square&logo=corsair&logoColor=white&color=black" /><br>
 </div>
-<h4 style="margin-bottom: 1em">Laptop</h4>
+<h5 style="margin-bottom: 1em">Laptop</h5>
 <div style="margin-left: 1em">
     MacBook Air (M2 16GB 512GB, 2022)
 </div>
