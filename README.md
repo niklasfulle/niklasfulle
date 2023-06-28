@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=niklasfulle&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats&cache_seconds=14400" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=niklasfulle&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats&cache_seconds=14400&hide=contribs" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20&hide_progress=false&cache_seconds=14400" />
@@ -31,14 +31,16 @@
     <img alt="Windows" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
     <img alt="MacOS" src="https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=apple&logoColor=white" />
     <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+    <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" />
+    <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
     <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
     <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=blue" />
     <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=green" />
     <br>
 </p>
 <h4>My Hardeware</h4>
-<h5 style="margin-bottom: 1em">PC</h5>
-<div style="margin-left: 1em">
+<h5>PC</h5>
+<div>
     <img alt="AMD Ryzen 7 5800X" src="https://img.shields.io/badge/-AMD%20Ryzen%207%205800X-ED1C24?style=flat-square&logo=amd&logoColor=white" /><br>
     <img alt="GiGABYTE B550 AORUS PRO V2" src="https://img.shields.io/badge/-GiGABYTE%20B550%20AORUS%20PRO%20V2-00AEEF?style=flat-square&logo=gigabyte&logoColor=white" /><br>
     <img alt="Crucial Ballistix 32GB DDR4 3600" src="https://img.shields.io/badge/-Crucial%20Ballistix%2032GB%20DDR4%203600-00AEEF?style=flat-square&logo=crucial&logoColor=white" /><br>
@@ -48,8 +50,8 @@
     <img alt="Seagate Barracuda 4TB" src="https://img.shields.io/badge/-Seagate%20Barracuda%204TB-00AEEF?style=flat-square&logo=seagate&logoColor=white" /><br>
     <img alt="Corsair iCue 4000X RGB schwarz" src="https://img.shields.io/badge/-Corsair%20iCue%204000X%20RGB%20schwarz-00AEEF?style=flat-square&logo=corsair&logoColor=white&color=black" /><br>
 </div>
-<h5 style="margin-bottom: 1em">Laptop</h5>
-<div style="margin-left: 1em">
+<h5>Laptop</h5>
+<div>
     MacBook Air (M2 16GB 512GB, 2022)
 </div>
 <br>
