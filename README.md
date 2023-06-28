@@ -2,7 +2,7 @@
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=niklasfulle&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20Stats&cache_seconds=14400&hide=contribs" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20&hide_progress=false&cache_seconds=14400&card_width=350" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20&hide_progress=false&cache_seconds=14400&card_width=300" />
 </a>
 <h3>I'm Niklas, computer science student at the University of Applied Sciences Ostfalia in Wolfenbüttel, Germany.<br> I'm currently working on my bachelor degree.</h2>
 
