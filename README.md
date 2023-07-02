@@ -4,7 +4,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20&hide_progress=false&cache_seconds=14400" />
 </a>
-<h3>I'm Niklas, computer science student at the University of Applied Sciences Ostfalia in Wolfenbüttel, Germany.<br> I'm currently working on my bachelor degree.</h2>
+<h3>I'm Niklas, computer science student at the University of Applied Sciences Ostfalia in Wolfenbüttel, Germany. I'm currently working on my bachelor degree in software engineering.</h2>
 
 <h4>Things I code with</h4>
 <p>
@@ -52,6 +52,6 @@
 </div>
 <h5>Laptop</h5>
 <div>
-    MacBook Air (M2 16GB 512GB, 2022)
+    Apple MacBook Air Midnight (M2 8 Core CPU / 10 Core GPU, 16GB 512GB, 2022)
 </div>
 <br>
