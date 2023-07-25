@@ -60,6 +60,7 @@
     <img alt="WD Green 2TB" src="https://img.shields.io/badge/-WD%20Green%202TB-00AEEF?style=flat-square&logo=western-digital&logoColor=white" /><br>
     <img alt="Seagate Barracuda 4TB" src="https://img.shields.io/badge/-Seagate%20Barracuda%204TB-00AEEF?style=flat-square&logo=seagate&logoColor=white" /><br>
     <img alt="Corsair iCue 4000X RGB schwarz" src="https://img.shields.io/badge/-Corsair%20iCue%204000X%20RGB%20schwarz-00AEEF?style=flat-square&logo=corsair&logoColor=white&color=black" /><br>
+    <img alt="Windows 11 Pro" src="https://img.shields.io/badge/-Windows%2011%20Pro-00AEEF?style=flat-square&logo=windows&logoColor=white" /><br>
 </div>
 <h5>Laptop</h5>
 <div>
