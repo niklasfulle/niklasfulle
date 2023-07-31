@@ -3,7 +3,7 @@
     <br/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20&hide_progress=false&cache_seconds=14400&hide=mdx" />
+    <img align="center" height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20&hide_progress=false&cache_seconds=14400&hide=mdx" />
 </a>
 <h3>I'm Niklas, computer science student at the University of Applied Sciences Ostfalia in Wolfenbüttel, Germany. I'm currently working on my bachelor degree in software engineering.</h2>
 
