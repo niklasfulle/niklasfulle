@@ -5,7 +5,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20&hide_progress=false&cache_seconds=14400&hide=mdx,glsl" />
 </a>
-<h3>I'm Niklas, computer science student at the University of Applied Sciences Ostfalia in Wolfenbüttel, Germany. I'm currently working on my bachelor degree in software engineering.</h2>
+<h2>Hi 👋, I'm Niklas Fulle,</h2>
+<h3> computer science student at the University of Applied Sciences Ostfalia in Wolfenbüttel, Germany. I'm currently working on my bachelor degree in software engineering.</h3>
 
 <h4>Things I code with</h4>
 <p>
