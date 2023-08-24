@@ -94,10 +94,10 @@
 <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img  height=215 src="https://github-readme-stats.vercel.app/api?username=niklasfulle&theme=algolia&show_icons=true&count_private=true&custom_title=Niklas's%20Github%20Stats&cache_seconds=14400&hide=contribs&card_width=400" />
+    <img height=215 src="https://github-readme-stats.vercel.app/api?username=niklasfulle&theme=algolia&show_icons=true&count_private=true&custom_title=Niklas's%20Github%20Stats&cache_seconds=14400&hide=contribs&card_width=350" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20&hide_progress=false&cache_seconds=14400&hide=mdx,glsl&card_width=400" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20&hide_progress=false&cache_seconds=14400&hide=mdx,glsl&card_width=320" />
 </a>
 <a href="[https://github.com/anuraghazra/github-readme-stats](https://github-readme-streak-stats.herokuapp.com/demo/)">
     <img height=215 src="https://github-readme-streak-stats.herokuapp.com?user=niklasfulle&theme=algolia&card_width=500" alt="niklasfulle" />
