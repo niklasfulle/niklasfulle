@@ -1,8 +1,5 @@
 <h1>Hi 👋, I'm Niklas Fulle,</h1>
 <h2> computer science student at the University of Applied Sciences Ostfalia in Wolfenbüttel, Germany. I'm currently working on my bachelor degree in software engineering.</h2>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/niklasfulle/count.svg?"  />
-</div>
 
 <h3>Tech Stack:</h3>
 <div align="center">
@@ -94,13 +91,13 @@
 <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=215 src="https://github-readme-stats.vercel.app/api?username=niklasfulle&theme=algolia&show_icons=true&count_private=true&custom_title=Niklas's%20Github%20Stats&cache_seconds=14400&hide=contribs&card_width=350" />
+    <img heigh=215 src="https://github-readme-stats.vercel.app/api?username=niklasfulle&theme=algolia&show_icons=true&count_private=true&custom_title=Niklas's%20Github%20Stats&cache_seconds=14400&hide=contribs&card_width=500" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20&hide_progress=false&cache_seconds=14400&hide=mdx,glsl&card_width=320" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20&hide_progress=false&cache_seconds=14400&hide=mdx,glsl&card_width=500" />
 </a>
 <a href="[https://github.com/anuraghazra/github-readme-stats](https://github-readme-streak-stats.herokuapp.com/demo/)">
-    <img height=215 src="https://github-readme-streak-stats.herokuapp.com?user=niklasfulle&theme=algolia&card_width=500" alt="niklasfulle" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=niklasfulle&theme=algolia&card_width=500" alt="niklasfulle" />
 </a>
 <h3>My Hardeware:</h3>
 <h4>Windows-PC:</h4>
