@@ -29,6 +29,8 @@
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="6" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
@@ -80,8 +82,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
   <img width="6" />
