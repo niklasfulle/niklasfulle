@@ -43,9 +43,9 @@
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="terraform logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="ansible logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="6" />
@@ -78,6 +78,8 @@
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
 </div>
 
 <h3>Things i want to learn:</h3>
