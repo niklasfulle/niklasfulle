@@ -53,6 +53,8 @@
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
   <img width="6" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
 </div>
 
@@ -86,31 +88,24 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
   <img width="6" />
-  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=svelte" height="40" alt="svelte logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
 
 <br/>
 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api?username=niklasfulle&theme=algolia&show_icons=true&count_private=true&custom_title=Niklas%27s%20Github%20Stats&hide=contribs&card_width=500">
     <img heigh=215 src="https://github-readme-stats.vercel.app/api?username=niklasfulle&theme=algolia&show_icons=true&count_private=true&custom_title=Niklas%27s%20Github%20Stats&hide=contribs&card_width=500" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20&hide_progress=false&hide=mdx,glsl&card_width=500&custom_title=My%20Most%20Used%20Languages">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20&hide_progress=false&hide=mdx,glsl&card_width=500&custom_title=My%20Most%20Used%20Languages" />
 </a>
-<a href="https://github-readme-streak-stats.herokuapp.com/demo">
+<a href="https://github-readme-streak-stats.herokuapp.com?user=niklasfulle&theme=algolia&card_width=500">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=niklasfulle&theme=algolia&card_width=500" alt="niklasfulle" />
 </a>
 <h3>My Hardeware:</h3>
