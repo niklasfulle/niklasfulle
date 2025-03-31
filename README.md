@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niklas Fulle</h1>
-<h2>Computer science student at the University of Applied Sciences Ostfalia in Wolfenbüttel, Germany. I'm currently working on my bachelor degree in software engineering.</h2>
+<h2>Bachelor's degree in computer science, specialising in software engineering, from Ostfalia University of Applied Sciences in Wolfenbüttel, Germany. I am currently working as a software developer.</h2>
 
 <h3>Tech Stack:</h3>
 <div align="center">
