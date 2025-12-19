@@ -82,18 +82,16 @@
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
+  <img width="6" />
 </div>
 
 <h3>Things i want to learn:</h3>
 <br clear="both">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="6" />
 </div>
 
 <br/>
@@ -104,9 +102,6 @@
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20&hide_progress=false&hide=mdx,glsl&card_width=500&custom_title=My%20Most%20Used%20Languages">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20&hide_progress=false&hide=mdx,glsl&card_width=500&custom_title=My%20Most%20Used%20Languages" />
-</a>
-<a href="https://github-readme-streak-stats.herokuapp.com?user=niklasfulle&theme=algolia&card_width=500">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=niklasfulle&theme=algolia&card_width=500" alt="niklasfulle" />
 </a>
 <h3>My Hardeware:</h3>
 <h4>Windows-PC:</h4>
