@@ -82,6 +82,7 @@
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
