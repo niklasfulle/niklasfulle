@@ -56,6 +56,11 @@
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
+  <img width="6" />
 </div>
 
 <h3>Things i also use:</h3>
@@ -82,11 +87,6 @@
   <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
-  <img width="6" />
 </div>
 
 <h3>Things i want to learn:</h3>
