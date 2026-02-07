@@ -29,6 +29,10 @@
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="6" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="java logo"  />
+  <img width="6" />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="java logo"  />
+  <img width="6" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="pyqt logo"  />
