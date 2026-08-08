@@ -102,12 +102,9 @@
 <br/>
 <br/>
 
-<a href="https://github-readme-stats.vercel.app/api?username=niklasfulle&theme=algolia&show_icons=true&count_private=true&custom_title=Niklas%27s%20Github%20Stats&hide=contribs&card_width=500">
-    <img heigh=215 src="https://github-readme-stats.vercel.app/api?username=niklasfulle&theme=algolia&show_icons=true&count_private=true&custom_title=Niklas%27s%20Github%20Stats&hide=contribs&card_width=500" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20&hide_progress=false&hide=mdx,glsl&card_width=500&custom_title=My%20Most%20Used%20Languages">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20&hide_progress=false&hide=mdx,glsl&card_width=500&custom_title=My%20Most%20Used%20Languages" />
-</a>
+![](https://github-readme-stats.shion.dev/api?username=niklasfulle&theme=algolia&show_icons=true&count_private=true&custom_title=Niklas%27s%20Github%20Stats&hide=contribs&card_width=500)<br/>
+![](https://streak-stats.demolab.com/?user=niklasfulle&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20&hide_progress=false&hide=mdx,glsl&card_width=500&custom_title=My%20Most%20Used%20Languages)
 <h3>My Hardeware:</h3>
 <h4>Windows-PC:</h4>
 <div>
