@@ -1,125 +1,29 @@
-<h1 align="center">Hi 👋, I'm Niklas Fulle</h1>
-<h2>Bachelor's degree in computer science, specialising in software engineering, from Ostfalia University of Applied Sciences in Wolfenbüttel, Germany. I am currently working as a software developer.</h2>
-
-<h3>Tech Stack:</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=npm" height="40" alt="npm logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=yarn" height="40" alt="yarn logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="java logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="java logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="pyqt logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="terraform logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="ansible logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
-  <img width="6" />
+  <h1>Hi, I'm Niklas Fulle 👋</h1>
+  <p><strong>Software developer · Germany</strong></p>
+  <p>B.Sc. in Computer Science, specialising in Software Engineering<br>
+  Ostfalia University of Applied Sciences</p>
 </div>
 
-<h3>Things i also use:</h3>
-<div align="center">
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="gitlab logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=apple" height="40" alt="gitlab logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="40" alt="raspberrypi logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
-</div>
+## About me
 
-<h3>Things i want to learn:</h3>
-<br clear="both">
+I'm a software developer with a background in software engineering. I work across web development, backend services, and databases, and enjoy turning ideas into useful, well-structured software.
 
-<div align="center">
-</div>
+## Technologies
 
-<br/>
-<br/>
+**Web**  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" height="36" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, and Tailwind CSS" />
 
-![](https://github-readme-stats.shion.dev/api?username=niklasfulle&theme=algolia&show_icons=true&count_private=true&custom_title=Niklas%27s%20Github%20Stats&hide=contribs&card_width=500)<br/>
-![](https://streak-stats.demolab.com/?user=niklasfulle&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=niklasfulle&theme=algolia&layout=compact&langs_count=20&hide_progress=false&hide=mdx,glsl&card_width=500&custom_title=My%20Most%20Used%20Languages)
-<h3>My Hardeware:</h3>
-<h4>Windows-PC:</h4>
-<div>
-    <img alt="AMD Ryzen 7 5800X" src="https://img.shields.io/badge/-AMD%20Ryzen%207%205800X-ED1C24?style=flat-square&logo=amd&logoColor=white" /><br>
-    <img alt="GiGABYTE B550 AORUS PRO V2" src="https://img.shields.io/badge/-GiGABYTE%20B550%20AORUS%20PRO%20V2-00AEEF?style=flat-square&logo=gigabyte&logoColor=white" /><br>
-    <img alt="Crucial Ballistix 32GB DDR4 3600" src="https://img.shields.io/badge/-Crucial%20Ballistix%2032GB%20DDR4%203600-00AEEF?style=flat-square&logo=crucial&logoColor=white" /><br>
-    <img alt="NVIDIA GeForce RTX 3070" src="https://img.shields.io/badge/-NVIDIA%20GeForce%20RTX%203070-76B900?style=flat-square&logo=nvidia&logoColor=white" /><br>
-    <img alt="Samsung 960 EVO 500GB" src="https://img.shields.io/badge/-Samsung%20960%20EVO%20500GB-00AEEF?style=flat-square&logo=samsung&logoColor=white" /><br>
-    <img alt="WD Green 2TB" src="https://img.shields.io/badge/-WD%20Green%202TB-00AEEF?style=flat-square&logo=western-digital&logoColor=white" /><br>
-    <img alt="Seagate Barracuda 4TB" src="https://img.shields.io/badge/-Seagate%20Barracuda%204TB-00AEEF?style=flat-square&logo=seagate&logoColor=white" /><br>
-    <img alt="Corsair iCue 4000X RGB schwarz" src="https://img.shields.io/badge/-Corsair%20iCue%204000X%20RGB%20schwarz-00AEEF?style=flat-square&logo=corsair&logoColor=white&color=black" /><br>
-    <img alt="Windows 11 Pro" src="https://img.shields.io/badge/-Windows%2011%20Pro-00AEEF?style=flat-square&logo=windows&logoColor=white" /><br>
-</div>
-<h4>Laptop:</h4>
-<div>
-    Apple MacBook Air Midnight (M2 8 Core CPU / 10 Core GPU, 16GB 512GB, 2022)
-</div>
-<br>
+**Backend & data**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,hibernate,py,cs,dotnet,rust,postgres,mongodb,mysql,redis,prisma" height="36" alt="Node.js, Express, Java, Spring, Hibernate, Python, C sharp, .NET, PostgreSQL, MongoDB, MySQL, Redis, and Prisma" />
+
+**Tools & infrastructure**  
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,terraform,ansible,aws" height="36" alt="Git, GitHub, GitHub Actions, GitLab, Terraform, Ansible, and AWS" />
+
+## GitHub activity
+
+
+  <img src="https://camo.githubusercontent.com/bad4420437b3e61d67066fa43bef5fcde8d08eb5cac4720bcec6b11bf3fe1201/68747470733a2f2f6769746875622d726561646d652d73746174732e7368696f6e2e6465762f6170693f757365726e616d653d6e696b6c617366756c6c65267468656d653d616c676f6c69612673686f775f69636f6e733d7472756526636f756e745f707269766174653d7472756526637573746f6d5f7469746c653d4e696b6c617325323773253230476974687562253230537461747326686964653d636f6e747269627326636172645f77696474683d353030" alt="Niklas's GitHub activity" /><br />
+  <img width="500" src="https://camo.githubusercontent.com/f7b8b3958f1df073f930897b261ae814690f0a72b018d68565efc9c5fa27e3aa/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d6e696b6c617366756c6c65267468656d653d616c676f6c696126686964655f626f726465723d66616c7365" alt="Niklas's GitHub activity" /><br />
+  <img src="https://camo.githubusercontent.com/99ddbab2f6f951a29689f948ef38638218716872d961c76472829c95ae8ad0d4/68747470733a2f2f6769746875622d726561646d652d73746174732e7368696f6e2e6465762f6170692f746f702d6c616e67732f3f757365726e616d653d6e696b6c617366756c6c65267468656d653d616c676f6c6961266c61796f75743d636f6d70616374266c616e67735f636f756e743d323026686964655f70726f67726573733d66616c736526686964653d6d64782c676c736c26636172645f77696474683d35303026637573746f6d5f7469746c653d4d792532304d6f7374253230557365642532304c616e677561676573" alt="Most used programming languages" /><br />
+
