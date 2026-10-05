@@ -12,13 +12,14 @@ I'm a software developer with a background in software engineering. I work acros
 ## Technologies
 
 **Web**  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,threejs" height="36" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, and Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,threejs" height="36" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Vite, and Three.js" />
+
 
 **Backend & data**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,hibernate,py,cs,dotnet,rust,postgres,mongodb,mysql,redis,sqlite,prisma" height="36" alt="Node.js, Express, Java, Spring, Hibernate, Python, C sharp, .NET, PostgreSQL, MongoDB, MySQL, Redis, SQLite and Prisma" />
 
 **Tools & infrastructure**  
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,kubernetes,terraform,ansible,aws,azure" height="36" alt="Git, GitHub, GitHub Actions, GitLab, Docker, Kubernetes, Terraform, Ansible, AWS and Azure" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,docker,kubernetes,terraform,ansible,aws,azure,jest" height="36" alt="Git, GitHub, GitHub Actions, GitLab, Docker, Kubernetes, Terraform, Ansible, AWS, Azure, and Jest" />
 
 ## GitHub activity
 
